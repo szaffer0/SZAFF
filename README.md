@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **szaffer0@gmail.com** For Collaboration/Project or Anythin
 
 <!-- Snake Game Repo View -->
 
-![snake gif](https://github.com/SZAFFER/SZAFFER/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/szaffer0/SZAFF/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SZAFFER&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
